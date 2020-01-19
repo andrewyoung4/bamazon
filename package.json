@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "nodejs and mysql app to mimic an online storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewyoung4/bamazon.git"
+  },
+  "author": "Drew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewyoung4/bamazon/issues"
+  },
+  "homepage": "https://github.com/andrewyoung4/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "mysql": "^2.15.0"
+  }
+}
